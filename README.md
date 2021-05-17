@@ -1,5 +1,7 @@
 ### Code for  Paper "Person Re-identification based on Multi-scale Feature Learning"
 
+Our main model code will be sorted out soon, thanks for your attention!
+
 This code is developed based on pytorch framework.
 
 #### Prerequisites
