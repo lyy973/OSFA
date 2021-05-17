@@ -18,7 +18,7 @@ This code is developed based on pytorch framework.
 #### SetUP
 
 ```
-git clone https://github.com/AI-NERC-NUPT/PLR-OSNet.git
+git clone https://github.com/lyy973/OSFA.git
 ```
 
 
@@ -67,7 +67,7 @@ git clone https://github.com/AI-NERC-NUPT/PLR-OSNet.git
 #### Train
 
 ```
-cd OSFA/scripts
+cd OSFA-master/scripts
 vim train.sh
 bash train.sh
 ```
